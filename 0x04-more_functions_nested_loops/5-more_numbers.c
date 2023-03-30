@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * more_numbers - number factorial
+ * more_numbers - numbers many times
  *
  * Return: no return
  */
