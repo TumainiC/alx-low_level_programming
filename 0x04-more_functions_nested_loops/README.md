@@ -1,1 +1,1 @@
-More finctions, nested loops
+More functions and loops
