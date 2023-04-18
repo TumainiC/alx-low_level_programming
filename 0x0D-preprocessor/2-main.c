@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 /**
- * main - prints name of the fine
+ * main - prints name of the file
  *
  * Return: Always 0 (Success)
  */
 int main(void)
 {
-	printf("The name of the file is: %s \n", __FILE__);
+	printf("%s \n", __FILE__);
 	return (0);
 }
